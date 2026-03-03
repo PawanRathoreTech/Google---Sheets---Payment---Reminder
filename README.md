@@ -15,10 +15,10 @@ This project sends bulk payment reminder emails using Google Sheets and Google A
 ## Screenshots
 
 ### Google Sheet
-![Sheet View](sheet-view.png)
+![Sheet View](Sheet view.png)
 
 ### Apps Script Code
-![Script Code](script-code.png)
+![Script Code](Script code.png)
 
 ### Email Output
 ![Email Output](email-output.png)
