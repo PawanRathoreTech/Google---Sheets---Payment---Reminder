@@ -33,7 +33,7 @@ This project sends bulk payment reminder emails using Google Sheets and Google A
 ---
 
 ### 💻 Apps Script Code
-![Script Code](Script code.png)
+![Script Code](script-code.png)
 
 ---
 
