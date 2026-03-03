@@ -38,7 +38,7 @@ This project sends bulk payment reminder emails using Google Sheets and Google A
 ---
 
 ### 📧 Email Output
-![Email Output](email_output.png)
+![Email Output](email-output.png)
 
 ---
 
