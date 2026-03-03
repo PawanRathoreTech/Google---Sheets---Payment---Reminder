@@ -21,7 +21,7 @@ This project sends bulk payment reminder emails using Google Sheets and Google A
 ![Script Code](script-code.png)
 
 ### Email Output
-![Email Output](Email output.png)
+![Email Output](email-output.png)
 
 ## Author
 Pawan Rathore
