@@ -2,10 +2,6 @@
 
 This project sends bulk payment reminder emails using Google Sheets and Google Apps Script.
 
-# Google Sheets Payment Reminder System
-
-This project sends bulk payment reminder emails using Google Sheets and Google Apps Script.
-
 ---
 
 ## 🚀 Features
@@ -28,7 +24,7 @@ This project sends bulk payment reminder emails using Google Sheets and Google A
 ## 📸 Screenshots
 
 ### 📊 Google Sheet
-![Sheet View](Sheet view.png)
+![Sheet View](sheet-view.png)
 
 ---
 
